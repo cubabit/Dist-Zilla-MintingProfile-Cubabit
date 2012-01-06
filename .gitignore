@@ -1,0 +1,7 @@
+# temp files
+*.swp
+
+# build files
+/.build/
+/Dist-Zilla-MintingProfile-Cubabit-*/
+/Dist-Zilla-MintingProfile-Cubabit-*.tar.gz
