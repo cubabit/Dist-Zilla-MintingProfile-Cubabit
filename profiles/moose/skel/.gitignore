@@ -1,0 +1,7 @@
+# temp files
+*.swp
+
+# build files
+/.build/
+/{{$dist->name}}-*/
+/{{$dist->name}}-*.tar.gz
